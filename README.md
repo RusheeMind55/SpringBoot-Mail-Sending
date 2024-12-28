@@ -7,4 +7,5 @@ JavaMailSender: This is the primary interface in Spring Boot for sending emails.
 SimpleMailMessage: A basic email message that includes the recipient, subject, body, and sender. This is used for sending plain text emails.
 
 
-![Alt text](Screenshot 2024-12-28 112048.png)
+![Alt text](Screenshot%202024-12-28%20112048.png)
+

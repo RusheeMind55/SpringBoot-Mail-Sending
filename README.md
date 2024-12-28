@@ -9,3 +9,5 @@ SimpleMailMessage: A basic email message that includes the recipient, subject, b
 
 ![Alt text](Screenshot%202024-12-28%20112048.png)
 
+
+![Alt text](https://github.com/RusheeMind55/SpringBoot-Mail-Sending/blob/40e5de443db4566077531351fd82f62c81d9fe2e/Screenshot%202024-12-28%20112325.png)
